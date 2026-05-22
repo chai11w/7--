@@ -1,7 +1,21 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python *)"
+      "Bash(python *)",
+      "Bash(where python3 *)",
+      "Bash(where python *)",
+      "Read(//f/ruanjian/**)",
+      "Bash(py *)",
+      "Bash(/c/Windows/System32/cmd.exe *)",
+      "Bash(F:/ruanjian/ShadowBot/shadowbot-6.0.30/python/python.exe *)",
+      "Bash(C:/Users/31492/AppData/Local/Programs/Python/Python312/python.exe *)",
+      "Read(//d/桌面/答疑、帮做/结构力学/帮做/5位移法/3对称性/2多未知量/**)",
+      "Read(//d/桌面/答疑、帮做/结构力学/帮做/5位移法/3对称性/2多未知量/答案/**)",
+      "Bash(tee /tmp/ans1.txt)",
+      "Read(//d/桌面/答疑、帮做/答案输出/**)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)"
     ]
   }
 }
